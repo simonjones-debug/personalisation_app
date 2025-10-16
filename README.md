@@ -243,5 +243,6 @@ npm run lint
 - Implement user journey tracking
 - Create more complex personalization rules
 - Add analytics dashboard integration
-- Implement multivariate testing capabilities#   p e r s o n a l i s a t i o n _ a p p  
+- Implement multivariate testing capabilities#   p e r s o n a l i s a t i o n _ a p p 
+ 
  
